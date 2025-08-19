@@ -13,10 +13,9 @@ Tahapan pengerjaan dibagi menjadi beberapa bagian utama:
 4. Modelling
 
 🧠 Insight Sementara
-- Fitur Glucose dan BMI cukup berpengaruh terhadap prediksi diabetes
-- Beberapa nilai nol ditemukan di fitur medis seperti BloodPressure, SkinThickness, dan beberapa fitur lainnya, sehingga perlu perlakuan khusus.
+- Fitur Glucose dan BMI cukup berpengaruh terhadap hasil prediksi diabetes.
+- Beberapa nilai nol ditemukan di fitur seperti BloodPressure, SkinThickness, dan beberapa fitur lainnya.
 
 💡 Kontribusi
-- Berkontribusi dalam penulisan kode program, mulai dari data cleaning, eksplorasi data, hingga visualisasi.
-- Menulis kode secara terstruktur dan terdokumentasi agar mudah dipahami dan digunakan oleh anggota tim lainnya.
+- Berkontribusi dalam menuliskan kode program, mulai dari data cleaning, eksplorasi data, hingga visualisasi.
 - Terlibat dalam pembuatan poster yang disusun menggunakan Canva.
